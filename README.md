@@ -2,4 +2,4 @@
 
 Projekt studencki - aplikacja trójwarstwowa
 
-Wymagany XAMPP oraz import bazy danych z pliku library
+Wymagany XAMPP oraz import bazy danych z pliku library.sql
